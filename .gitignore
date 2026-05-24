@@ -1,0 +1,51 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.so
+*.egg-info/
+build/
+dist/
+
+# Virtualenv
+
+venv/
+.env/
+
+# IDE
+
+.vscode/
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# SQLite
+
+*.sqlite
+*.db
+
+# Exports
+
+exports/raw/*
+exports/json/*
+exports/csv/*
+
+# Environment
+
+.env
+
+# Pytest
+
+.pytest_cache/
+
+# Coverage
+
+.coverage
+htmlcov/
