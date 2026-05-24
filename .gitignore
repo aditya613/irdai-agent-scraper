@@ -1,4 +1,3 @@
-# Python
 
 **pycache**/
 *.py[cod]
@@ -7,45 +6,41 @@
 build/
 dist/
 
-# Virtualenv
-
 venv/
 .env/
-
-# IDE
 
 .vscode/
 .idea/
 
-# OS
 
 .DS_Store
 Thumbs.db
 
-# Logs
-
 *.log
-
-# SQLite
 
 *.sqlite
 *.db
-
-# Exports
 
 exports/raw/*
 exports/json/*
 exports/csv/*
 
-# Environment
-
 .env
-
-# Pytest
 
 .pytest_cache/
 
-# Coverage
 
 .coverage
 htmlcov/
+
+venv/
+__pycache__/
+raw/
+exports/
+*.sqlite
+*.db
+.env
+
+exports/
+raw/
+progress.txt

@@ -1,0 +1,112 @@
+[
+{
+"district_id": 293,
+"district_name": "AMRITSAR",
+"pincode_range": "143001-143606"
+},
+{
+"district_id": 602,
+"district_name": "BARNALA",
+"pincode_range": "148025-148108"
+},
+{
+"district_id": 294,
+"district_name": "BATHINDA",
+"pincode_range": "151001-151509"
+},
+{
+"district_id": 295,
+"district_name": "FARIDKOT",
+"pincode_range": "151202-151212"
+},
+{
+"district_id": 499,
+"district_name": "FATEHGARH SAHIB",
+"pincode_range": "140101-147301"
+},
+{
+"district_id": 698,
+"district_name": "FAZILKA",
+"pincode_range": "152118-152118"
+},
+{
+"district_id": 296,
+"district_name": "FEROZEPUR",
+"pincode_range": "142041-152132"
+},
+{
+"district_id": 297,
+"district_name": "GURDASPUR",
+"pincode_range": "143505-145101"
+},
+{
+"district_id": 298,
+"district_name": "HOSHIARPUR",
+"pincode_range": "144105-146116"
+},
+{
+"district_id": 299,
+"district_name": "JALANDHAR",
+"pincode_range": "144001-144805"
+},
+{
+"district_id": 300,
+"district_name": "KAPURTHALA",
+"pincode_range": "144031-144819"
+},
+{
+"district_id": 301,
+"district_name": "LUDHIANA",
+"pincode_range": "140802-142037"
+},
+{
+"district_id": 498,
+"district_name": "MANSA",
+"pincode_range": "148109-151509"
+},
+{
+"district_id": 576,
+"district_name": "MOGA",
+"pincode_range": "142001-152028"
+},
+{
+"district_id": 497,
+"district_name": "MUKTSAR",
+"pincode_range": "151210-152115"
+},
+{
+"district_id": 496,
+"district_name": "NAWANSHAHR",
+"pincode_range": "144024-144533"
+},
+{
+"district_id": 762,
+"district_name": "PATHANKOT",
+"pincode_range": "143533-145101"
+},
+{
+"district_id": 302,
+"district_name": "PATIALA",
+"pincode_range": "140201-147506"
+},
+{
+"district_id": 583,
+"district_name": "RUPNAGAR",
+"pincode_range": "140001-140133"
+},
+{
+"district_id": 582,
+"district_name": "SAHIBZADA AJIT SINGH NAGAR",
+"pincode_range": "140103-160162"
+},
+{
+"district_id": 304,
+"district_name": "SANGRUR",
+"pincode_range": "147204-148108"
+},
+{
+"district_id": 797,
+"district_name": "TARN TARAN",
+"pincode_range": "143006-143601"
+}
+]

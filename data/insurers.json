@@ -1,0 +1,97 @@
+[
+{
+"insurer_id": 59,
+"insurer_code": "ACK",
+"insurer_name": "Acko General Insurance Limited"
+},
+{
+"insurer_id": 3,
+"insurer_code": "AIC",
+"insurer_name": "AGRICULTURE INSURANCE CO. OF INDIA LTD"
+},
+{
+"insurer_id": 8,
+"insurer_code": "BAG",
+"insurer_name": "Bajaj General Insurance Limited"
+},
+{
+"insurer_id": 10,
+"insurer_code": "BGI",
+"insurer_name": "BHARTI AXA GENERAL INSURANCE CO. LTD"
+},
+{
+"insurer_id": 13,
+"insurer_code": "CMG",
+"insurer_name": "CHOLAMANDALAM MS GENERAL INSURANCE COLTD"
+},
+{
+"insurer_id": 19,
+"insurer_code": "HCG",
+"insurer_name": "HDFC ERGO GENERAL INSURANCE COMPANY LTD"
+},
+{
+"insurer_id": 24,
+"insurer_code": "ILG",
+"insurer_name": "ICICI LOMBARD GENERAL INSURANCE CO. LTD."
+},
+{
+"insurer_id": 25,
+"insurer_code": "ITG",
+"insurer_name": "IFFCO TOKIO GENERAL INSURANCE CO. LTD."
+},
+{
+"insurer_id": 31,
+"insurer_code": "NIC",
+"insurer_name": "NATIONAL INSURANCE COMPANY LIMITED"
+},
+{
+"insurer_id": 55,
+"insurer_code": "DGL",
+"insurer_name": "Navi General Insurance Limited"
+},
+{
+"insurer_id": 36,
+"insurer_code": "RSA",
+"insurer_name": "Royal Sundaram General Insurance Co. Limited"
+},
+{
+"insurer_id": 37,
+"insurer_code": "SBG",
+"insurer_name": "SBI GENERAL INSURANCE COMPANY LTD"
+},
+{
+"insurer_id": 38,
+"insurer_code": "SGI",
+"insurer_name": "SHRIRAM GENERAL INSURANCE CO. LTD"
+},
+{
+"insurer_id": 4,
+"insurer_code": "AIG",
+"insurer_name": "TATA AIG GENERAL INSURANCE COMPANY LTD"
+},
+{
+"insurer_id": 30,
+"insurer_code": "NIA",
+"insurer_name": "THE NEW INDIA ASSURANCE CO. LTD."
+},
+{
+"insurer_id": 32,
+"insurer_code": "OIC",
+"insurer_name": "THE ORIENTAL INSURANCE CO. LTD"
+},
+{
+"insurer_id": 44,
+"insurer_code": "UII",
+"insurer_name": "UNITED INDIA INSURANCE CO. LTD."
+},
+{
+"insurer_id": 45,
+"insurer_code": "USG",
+"insurer_name": "UNIVERSAL SOMPO GENERAL INSURANCE CO.LTD"
+},
+{
+"insurer_id": 57,
+"insurer_code": "EGI",
+"insurer_name": "Zuno General Insurance Limited"
+}
+]
